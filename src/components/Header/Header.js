@@ -12,10 +12,10 @@ export const Header = () => {
         </div>
         <nav className="nav-links">
           <div>
-            <a href="/">Home</a>
-            <a href="/">Produtos</a>
-            <a href="/">Recursos</a>
-            <a href="/">Sobre nós</a>
+            <a href="/" className="link-header">Home</a>
+            <a href="/" className="link-header">Produtos</a>
+            <a href="/" className="link-header">Recursos</a>
+            <a href="/" className="link-header">Sobre nós</a>
           </div>
           <div>
             <a href="/" className="link-login">Entrar</a>

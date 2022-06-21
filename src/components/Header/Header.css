@@ -25,7 +25,7 @@
   margin-right: 119px;
 }
 
-a {
+.link-header {
   text-decoration: none;
   margin-right: 32px;
   font-weight: 500;
@@ -33,7 +33,7 @@ a {
   color: #667085;
 }
 
-a:last-child {
+.link-header:last-child {
   margin-right: 0;
 }
 
