@@ -1,13 +1,10 @@
 import React from "react";
 import './Button.css'
 
-class Button extends React.Component {
-  render() {
-    const { content } = this.props;
-    return (    
-      <button type="button" className="btn-cadastro">{content}</button>
-    )
-  }
-}
+const Button = ({ children }) => {
+  return (    
+    <button type="button" className="btn-component">{children}</button>
+  )
+};
 
 export default Button;

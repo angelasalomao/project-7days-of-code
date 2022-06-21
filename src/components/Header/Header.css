@@ -1,8 +1,10 @@
 .nav-container {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   height: 80px;
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
 .logo-tech {
@@ -31,7 +33,17 @@ a {
   color: #667085;
 }
 
+a:last-child {
+  margin-right: 0;
+}
+
 .link-login {
   margin-right: 30px;
 }
 
+.nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
