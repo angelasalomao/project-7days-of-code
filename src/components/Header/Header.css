@@ -1,0 +1,49 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.logo-tech {
+  width: 27px;
+  height: 27px;
+  margin-right: 8px;
+}
+
+.logo-and-title {
+  display: flex;
+  align-items: center;
+}
+
+.title-tech {
+  font-size: 18px;
+  font-weight: 500;
+  color: #3A404E;
+  margin-right: 119px;
+}
+
+.link-header {
+  text-decoration: none;
+  margin-right: 32px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #667085;
+}
+
+.link-header:last-child {
+  margin-right: 0;
+}
+
+.link-login {
+  margin-right: 30px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
