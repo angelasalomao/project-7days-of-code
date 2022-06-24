@@ -1,0 +1,14 @@
+main {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.metricas-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
+}
+
+.metricas-container > * {
+  width: 25%;
+}
