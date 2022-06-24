@@ -1,0 +1,22 @@
+.secao-metricas:nth-child(-n+3) {
+  margin-right: 32px;
+}
+
+.quantity-metricas {
+  font-size: 60px;
+  font-weight: 600;
+  color: #8E2424;
+  margin-bottom: 12px;
+}
+
+.title-metricas {
+  font-size: 18px;
+  font-weight: 500;
+  color: #101828;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.info-metricas {
+  color: #667085;
+}
