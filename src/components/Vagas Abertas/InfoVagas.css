@@ -1,17 +1,3 @@
-.area-title {
-  margin: 0;
-}
-
-.area-title {
-  font-size: 20px;
-  font-weight: 500;
-  color: #101828;
-}
-
-.area-title:nth-child(1), .area-title:nth-child(3) {
-  margin-bottom: 32px;
-}
-
 .about-details {
   display: flex;
   flex-direction: column;
