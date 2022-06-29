@@ -1,0 +1,45 @@
+.vagas-container {
+  margin-top: 170px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.span-vagas {
+  font-size: 14px;
+  font-weight: 500;
+  color: #8E2424;
+  background-color: rgba(142, 36, 36, 0.05);
+  border-radius: 16px;
+  padding: 4px 12px;
+  margin-bottom: 20px;
+}
+
+.title-vagas {
+  font-size: 36px;
+  color: #101828;
+  margin: 0;
+}
+
+.about-work {
+  font-size: 20px;
+  color: #667085;
+  margin-top: 20px;
+}
+
+.img-work {
+  margin: 64px 0;
+  width: 100%;
+}
+
+.title-area {
+  margin: 0;
+}
+
+.title-area {
+  margin-bottom: 32px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #101828;
+  text-align: left;
+}
