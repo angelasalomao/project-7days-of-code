@@ -6,7 +6,8 @@ main {
 .metricas-container {
   display: flex;
   justify-content: center;
-  margin-top: 90px;
+  margin-top: 100px;
+  padding-bottom: 96px;
 }
 
 .metricas-container > * {
