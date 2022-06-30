@@ -1,0 +1,29 @@
+.about-details {
+  display: flex;
+  flex-direction: column;
+  width: 768px;
+  padding: 24px 24px 28px;
+  box-sizing: border-box;
+  border: 1px solid #EAECF0;
+  border-radius: 16px;
+}
+
+.work-details {
+  margin-bottom: 24px;
+}
+
+.work-name {
+  font-size: 18px;
+  font-weight: 500;
+  color: #101828;
+  margin-bottom: 32px;
+}
+
+.office-hours {
+  margin-right: 24px;
+}
+
+.office-hours, .work-remuneration {
+  font-weight: 500;
+  color: #667085;
+}

@@ -2,6 +2,7 @@ import { Header } from './components/Header/Header';
 import { Banner } from './components/Banner/Banner';
 import { Metricas } from './components/Metricas/Metricas';
 import './App.css';
+import { Vagas } from './components/Vagas/Vagas';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
           info="Estamos orgulhosos de contar com mais de 500 reviews 5 estrelas em nossos produtos."
         />
       </div>
+      <Vagas />
    </main>
   );
 }
