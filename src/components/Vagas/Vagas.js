@@ -11,7 +11,7 @@ export const Vagas = () => {
       <p className="about-work">Somos uma equipe 100% remota com pessoas do Brasil inteiro.</p>
       <img src={ image } alt="working" className="img-work"/>
       <div>
-      <h1 className="title-area">Design</h1>
+      <h3 className="title-area">Design</h3>
       <InfoVagas
         office="Product Designer"
         hours="Full-time "
@@ -22,7 +22,7 @@ export const Vagas = () => {
         hours="Full-time "
         remuneration="Faixa salarial: R$6.000"
       />
-      <h1 className="title-area">Desenvolvimento de Software</h1>
+      <h3 className="title-area">Desenvolvimento de Software</h3>
        <InfoVagas
         office="Desenvolvedor(a) iOS"
         hours="Full-time "
