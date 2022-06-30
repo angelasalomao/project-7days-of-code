@@ -4,9 +4,11 @@ import { Metricas } from './components/Metricas/Metricas';
 import './App.css';
 import { Vagas } from './components/Vagas/Vagas';
 import { Depoimentos } from './components/Depoimentos/Depoimentos';
+import { Formulario } from './components/Formulario/Formulario';
 
 function App() {
   return (
+    <>
     <main>
       <Header />
       <Banner />
@@ -34,7 +36,9 @@ function App() {
       </div>
       <Vagas />
       <Depoimentos />
-   </main>
+    </main>
+    <Formulario />
+    </>
   );
 }
 
