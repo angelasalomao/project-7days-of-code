@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-7days-of-code/static/css/main.518e9a9f.css",
+    "main.js": "/project-7days-of-code/static/js/main.be8633d1.js",
+    "static/js/787.7d0a8db4.chunk.js": "/project-7days-of-code/static/js/787.7d0a8db4.chunk.js",
+    "static/media/Image.png": "/project-7days-of-code/static/media/Image.fda871aa1d9205d4203d.png",
+    "index.html": "/project-7days-of-code/index.html",
+    "main.518e9a9f.css.map": "/project-7days-of-code/static/css/main.518e9a9f.css.map",
+    "main.be8633d1.js.map": "/project-7days-of-code/static/js/main.be8633d1.js.map",
+    "787.7d0a8db4.chunk.js.map": "/project-7days-of-code/static/js/787.7d0a8db4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.518e9a9f.css",
+    "static/js/main.be8633d1.js"
+  ]
+}
